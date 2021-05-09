@@ -16,7 +16,7 @@ After I checked all the code branches, I couldn't find the CVE-2020-10971, then 
 
 However I notice another RCE at the code branch which is responsible for handling password changes.  
 
-Older versions of the firmware do not have this problem, but newer versions has RCE problem when the web server are handling the request for changing the password from uthenticated user.  
+Older versions of the firmware do not have this problem, but newer versions has RCE problem when the web server are handling the request for changing the password from authenticated user.  
 
 ## The problem code    
 
