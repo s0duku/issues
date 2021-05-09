@@ -4,13 +4,13 @@ A issue was dicovered on wavlink device with firmware at least from M79X3.V5030.
 A remote attacker can execute arbitrary code by sending  a crafted POST request to /cgi-bin/adm.cgi.    
 
 
-## How it start  
+## Intro 
 
 When I was trying to analyze CVE-2020-10971，I downloaded the newest WL-WN579X3-A firmware posted on the official website of Wavlink.   
 
 Firmware: https://www.wavlink.com/en_us/firmware/details/3a4d65ad3d.html  
 
-After I checked all the code branches, I couldn't find the CVE-2020-10971, then I find a more old version firmware on the internet, I do notice that there was a RCE problem at adm.cgi correspond to https://james-clee.com/2020/04/18/multiple-wavlink-vulnerabilities/ saying.     
+After I checked all the code branches, I couldn't find the CVE-2020-10971, then I find a more old version firmware on the internet, I do notice that there was a RCE problem at adm.cgi correspond to https://james-clee.com/2020/04/18/multiple-wavlink-vulnerabilities/ .     
 
 ![](https://github.com/s0duku/issues/blob/main/wavlink/WL-WN579X3-A_RCE/5.png?raw=true)   
 
