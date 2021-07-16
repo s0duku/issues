@@ -16,11 +16,18 @@ https://service.mercurycom.com.cn/product-469-2.html
 
 ## Problem Code  
 
+![](https://github.com/s0duku/issues/blob/main/Mercury/MIPC251-4-Directory-Traversal/MIPC251-4-Directory-Traversal-code0.png?raw=true)  
+
+![](https://github.com/s0duku/issues/blob/main/Mercury/MIPC251-4-Directory-Traversal/MIPC251-4-Directory-Traversal-code1.png?raw=true)   
+
+![](https://github.com/s0duku/issues/blob/main/Mercury/MIPC251-4-Directory-Traversal/MIPC251-4-Directory-Traversal-code2.png?raw=true)   
+
+![](https://github.com/s0duku/issues/blob/main/Mercury/MIPC251-4-Directory-Traversal/MIPC251-4-Directory-Traversal-code3.png?raw=true)   
 
 
 ## POC  
 
 
-
+![](https://github.com/s0duku/issues/blob/main/Mercury/MIPC251-4-Directory-Traversal/MIPC251-4-Directory-Traversal-poc.png?raw=true)
 
 
